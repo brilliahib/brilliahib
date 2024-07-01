@@ -1,3 +1,7 @@
+<div align="center" style="display: flex; justify-content: center;">
+    <img align="center" src="./public/sanji.jpg" alt="Msafdev Header" style="width: 100%; height: auto">
+</div>
+
 <h1 align="center">Hi 👋, I'm Muhammad Ahib Ibrilli</h1>
 <h3 align="center">A Fullstack Developer from Yogyakarta, Indonesia</h3>
 
