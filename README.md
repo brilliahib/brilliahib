@@ -30,4 +30,13 @@ const info = {
 
 ### my journey
 <!--START_SECTION:waka-->
+
+```typescript
+From: 13 September 2025 - To: 13 September 2025
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
