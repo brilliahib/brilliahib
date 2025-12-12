@@ -32,14 +32,14 @@ const info = {
 <!--START_SECTION:waka-->
 
 ```typescript
-From: 13 September 2025 - To: 09 December 2025
+From: 13 September 2025 - To: 10 December 2025
 
-Total Time: 169 hrs 3 mins
+Total Time: 169 hrs 53 mins
 
-TypeScript          124 hrs 29 mins ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   72.67 %
-PHP                 12 hrs 28 mins  ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.28 %
-Dart                9 hrs 6 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.32 %
-Prisma              6 hrs 26 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.76 %
+TypeScript          125 hrs 17 mins ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱   72.78 %
+PHP                 12 hrs 28 mins  ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.24 %
+Dart                9 hrs 6 mins    ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   05.30 %
+Prisma              6 hrs 26 mins   ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.74 %
 Python              3 hrs 18 mins   ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.93 %
 ```
 
