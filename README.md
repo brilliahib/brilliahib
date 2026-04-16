@@ -4,7 +4,7 @@
 
 ### hi, im Brilliahib ✨
 
-Frontend Developer based in **Semarang, Indonesia**. I usually have experience using next, react, typescript.
+Frontend Developer based in **Yogyakarta, Indonesia**. I usually have experience using next, react, typescript.
 
 ### my details 🔥
 
