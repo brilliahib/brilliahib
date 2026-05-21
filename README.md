@@ -1,18 +1,22 @@
-<div align="center" style="display: flex; justify-content: center;">
-    <img align="center" src="./public/banner.jpg" alt="brilliahib" style="width: 100%; height: auto">
-</div>
+![brilliahib's Cover](https://raw.githubusercontent.com/brilliahib/brilliahib/main/public/my-banner.jpg)
 
 [brilliahib](https://www.brilliahib.dev) is a software engineer committed to delivering impactful solutions and dedicated to continuous professional growth.
 
-currently building impactful products as a junior software engineer at dexa group.
+currently building impactful products as a junior software engineer at [dexa group](https://www.dexagroup.com).
 
 #### experience
 
-junior software engineer @ dexa group • frontend intern @ assistx enterprise • product engineer intern @ lazuardy tech • fullstack developer intern @ diskominfo • cloud computing path @ bangkit 2024
+[2026] junior software engineer @ [Dexa Group](https://www.dexagroup.com).
+
+[2026] frontend developer intern @ [AssistX Enterprise](https://assistxenterprise.ai).
+
+[2025] product engineer intern @ [Lazuardy Tech](https://www.lazuardy.tech).
+
+[2024] fullstack developer intern @ [Diskomdigi](https://diskominfo.jatengprov.go.id).
 
 _connect with me on [linkedin](https://www.linkedin.com/in/muhammadahibibrilli)_
 
-### journey
+#### daily development journey
 
 <!--START_SECTION:waka-->
 
