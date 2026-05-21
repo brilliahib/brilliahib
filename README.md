@@ -2,11 +2,7 @@
 
 [brilliahib](https://www.brilliahib.dev) is a software engineer committed to delivering impactful solutions and dedicated to continuous professional growth.
 
-currently building impactful products as a junior software engineer at [dexa group](https://www.dexagroup.com).
-
 #### experience
-
-[2026] junior software engineer @ [Dexa Group](https://www.dexagroup.com).
 
 [2026] frontend developer intern @ [AssistX Enterprise](https://assistxenterprise.ai).
 
