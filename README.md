@@ -1,6 +1,8 @@
-![brilliahib's Cover](https://raw.githubusercontent.com/brilliahib/brilliahib/main/public/my-banner.jpg)
+![brilliahib's Cover](https://raw.githubusercontent.com/brilliahib/brilliahib/main/public/sword.jpg)
 
 [brilliahib](https://www.brilliahib.dev) is a software engineer committed to delivering impactful solutions and dedicated to continuous professional growth.
+
+he is passionate about building clean, scalable, and user-focused digital experiences.
 
 #### experience
 
@@ -9,6 +11,8 @@
 [2025] product engineer intern @ [Lazuardy Tech](https://www.lazuardy.tech).
 
 [2024] fullstack developer intern @ [Diskomdigi](https://diskominfo.jatengprov.go.id).
+
+[2024] cloud computing path @ [Bangkit Academy](https://www.dicoding.com/programs/bangkit).
 
 _connect with me on [linkedin](https://www.linkedin.com/in/muhammadahibibrilli)_
 
