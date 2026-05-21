@@ -2,33 +2,18 @@
     <img align="center" src="./public/banner.jpg" alt="brilliahib" style="width: 100%; height: auto">
 </div>
 
-### hi, im Brilliahib ✨
+[brilliahib](https://www.brilliahib.dev) is a software engineer committed to delivering impactful solutions and dedicated to continuous professional growth.
 
-Software Engineer based in **Yogyakarta, Indonesia**. I usually have experience using next, react, typescript.
+currently building impactful products as a junior software engineer at dexa group.
 
-### my details 🔥
+#### experience
 
-```typescript
-const info = {
-  name: ["Brilly", "Brillex", "Brel"],
-  langs: ["Javascript", "Typescript"],
-  topics: ["web developer", "ui/ux"],
-  stack: {
-    frontend: {
-      frameworks: ["React", "Next", "Astro", "Tailwind"],
-    },
-    mobile: {
-      frameworks: ["React Native"],
-    },
-    design: {
-      tools: ["Figma", "AI", "Canva"],
-  }
-};
-```
+junior software engineer @ dexa group • frontend intern @ assistx enterprise • product engineer intern @ lazuardy tech • fullstack developer intern @ diskominfo • cloud computing path @ bangkit 2024
 
-#
+_connect with me on [linkedin](https://www.linkedin.com/in/muhammadahibibrilli)_
 
-### my journey
+### journey
+
 <!--START_SECTION:waka-->
 
 ```typescript
