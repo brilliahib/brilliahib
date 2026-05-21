@@ -20,16 +20,16 @@ _connect with me on [linkedin](https://www.linkedin.com/in/muhammadahibibrilli)_
 
 <!--START_SECTION:waka-->
 
-```typescript
-From: 13 September 2025 - To: 19 May 2026
+```text
+From: 13 September 2025 - To: 20 May 2026
 
-Total Time: 398 hrs 3 mins
+Total Time: 400 hrs 31 mins
 
-TypeScript                 319 hrs 34 mins       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   79.24 %
-PHP                        17 hrs 55 mins        ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.45 %
-Prisma                     12 hrs 4 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.99 %
-Dart                       9 hrs 8 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.27 %
-Bash                       7 hrs 6 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.76 %
+TypeScript                 321 hrs 18 mins       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   79.19 %
+PHP                        17 hrs 55 mins        ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.42 %
+Prisma                     12 hrs 9 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.00 %
+Dart                       9 hrs 8 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.25 %
+Bash                       7 hrs 9 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.76 %
 ```
 
 <!--END_SECTION:waka-->
