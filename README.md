@@ -23,7 +23,7 @@ _connect with me on [linkedin](https://www.linkedin.com/in/muhammadahibibrilli)_
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 September 2025 - To: 15 June 2026
+From: 13 September 2025 - To: 16 June 2026
 
 Total Time: 420 hrs 55 mins
 
